@@ -1,7 +1,7 @@
-package test
+package loggers
 
 import "fmt"
 
-func test_log()  {
+func Loggers_test()  {
 	fmt.Println("test_log")
 }
