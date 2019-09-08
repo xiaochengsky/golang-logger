@@ -1,7 +1,7 @@
-package modV5
+package logger
 
 import "fmt"
 
-func modV5()  {
+func Logger()  {
 	fmt.Println("modV5 test")
 }
